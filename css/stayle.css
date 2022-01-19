@@ -868,7 +868,7 @@ html {
     justify-content: center;
   }
   .section .container img {
-    width: 400px;
+    width: 200px;
     transform: rotate(5deg);
   }
   /* End Landing Page Two*/
