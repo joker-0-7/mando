@@ -682,6 +682,7 @@ html {
     font-size: 15px;
   }
   .icon {
+    display: none;
     position: absolute;
     bottom: -5px;
     right: -50%;
@@ -718,8 +719,8 @@ html {
     font-size: 15px;
   }
   .services .container .services-img {
-    height: 355px;
-    width: 50%;
+    height: 255px;
+    width: 45%;
     position: relative;
   }
   .services .container .services-img .clip-div {
@@ -1164,7 +1165,7 @@ html {
     justify-content: center;
   }
   .section .container img {
-    width: 400px;
+    width: 200px;
     transform: rotate(5deg);
   }
   /* End Landing Page Two*/
